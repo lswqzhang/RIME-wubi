@@ -7,8 +7,8 @@ schema:
   author:
     - "發明人 王永民先生"
   description: |
-    五筆字型98版
-    碼表源自 qq
+    五筆字型新世纪五笔
+    碼表源自 ibus
     敲 z 鍵進入拼音反查
 speller:
   delimiter: " ;'"
