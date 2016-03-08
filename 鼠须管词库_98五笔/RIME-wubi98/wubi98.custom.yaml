@@ -1,0 +1,14 @@
+# wubi98.custom.yaml
+# save it to: 
+#   ~/.config/ibus/rime  (linux)
+#   ~/Library/Rime       (macos)
+#   %APPDATA%\Rime       (windows)
+
+# patch:
+#   "key_binder/bindings":
+#     - { when: composing, accept: Return, send: Escape }
+#     - { when: has_menu, accept: semicolon, send: 2 }
+#     - { when: has_menu, accept: apostrophe, send: 3 }
+
+#   'punctuator/import_preset': symbols
+#   'recognizer/patterns/punct': "^/([a-z]+|[0-9])$"
