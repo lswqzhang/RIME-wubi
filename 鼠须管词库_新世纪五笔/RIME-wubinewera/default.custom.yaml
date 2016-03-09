@@ -91,11 +91,11 @@ patch:
       url: "^(www[.]|https?:|ftp[.:]|file:|mail[.]).*$|^[a-z]+[.].+$"
   schema_list:
     - schema: wubinewera        # 新世纪五笔
-    - schema: wubi98        # 五笔98
-    - schema: wubi86        # 五笔86
-    - schema: wubi_pinyin   # 五笔拼音混合輸入
-    - schema: terra_pinyin  # 地球拼音 dì qiú pīn yīn
     - schema: pinyin_simp   # 袖珍簡化字拼音，拼音反查五笔以及混合輸入用
+    # - schema: wubi98        # 五笔98
+    # - schema: wubi86        # 五笔86
+    # - schema: terra_pinyin  # 地球拼音 dì qiú pīn yīn
+    # - schema: wubi_pinyin   # 五笔拼音混合輸入
 #    - schema: luna_pinyin   # 朙月拼音
 #    - schema: bopomofo      # 注音
 #    - schema: jyutping      # 粵拼
