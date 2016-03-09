@@ -129,7 +129,7 @@ def main():
     wubi = Wubi98Dict()
     wubi.generate_single_word_dict('./qq_wubi.txt')
     wubi.generate_mayuan('./my_words')
-    wubi.write_into_squirrel('/Users/tu/Library/Rime/wubi98.dict.yaml')
+    # wubi.write_into_squirrel('/Users/tu/Library/Rime/wubi98.dict.yaml')
 
 
 if __name__ == '__main__':
