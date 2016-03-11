@@ -1,8 +1,0 @@
-# create new database from wubi-xinshiji.txt (Optional)
-ibus-table-createdb -d -n wubi-xinshiji.db -s wubi-xinshiji.txt
-
-# Install 
-sudo cp wubi-xinshiji.db wubi-xinshiji.svg /usr/share/ibus-table/tables/
-
-# Reboot Computer
-

@@ -8,31 +8,8 @@ schema:
     - "發明人 王永民先生"
   description: |
     五筆字型新世纪五笔
-    碼表源自 ibus
+    碼表源自 qq
     敲 z 鍵進入拼音反查
-speller:
-  delimiter: " ;'"
-switches:
-  - name: ascii_mode
-    reset: 0
-    states: ["中文", "英文"]
-  - name: full_shape
-    states: ["半角", "全角"]
-  - name: extended_charset
-    states: ["通用", "增廣"]
-translator:
-  dictionary: wubinewera 
-  enable_charset_filter: false #是否開啓字符集過濾
-  enable_sentence: true #是否開啓自動造句
-  enable_encoder: true #是否開啓自動造詞
-  encode_commit_history: true #是否對已上屛詞自動成詞
-  max_phrase_length: 4
-
-  enable_completion: true #逐渐提示
-  enable_user_dict: true #是否開啓用戶詞典
-  disable_user_dict_for_patterns: 
-    - "^z.*$"
-    - ^[a-y]{1,2}$
 
 engine:
   processors:
@@ -55,23 +32,55 @@ engine:
     - reverse_lookup_translator
     - table_translator
 
-
 key_binder:
   bindings:
     - {accept: Return, send: Escape, when: composing}
     - {accept: semicolon, send: 2, when: has_menu}
     - {accept: apostrophe, send: 3, when: has_menu}
   import_preset: default
+
 punctuator:
   import_preset: symbols
+
+speller:
+  delimiter: " ;'"
+  max_code_length: 4  # 最长四码
+  auto_select: true  # 顶字上屏
+  auto_select_unique_candidate: true  # 无重码自动上屏
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["中文", "英文"]
+  - name: full_shape
+    states: ["半角", "全角"]
+  - name: extended_charset
+    states: ["通用", "增廣"]
+
+translator:
+  dictionary: wubinewera 
+  enable_charset_filter: true #是否開啓字符集過濾
+  enable_sentence: false #是否開啓自動造句
+  enable_encoder: true #是否開啓自動造詞
+  encode_commit_history: true #是否對已上屛詞自動成詞
+  enable_completion: true #提前顯示尚未輸入完整碼的字
+  enable_user_dict: true #是否開啓用戶詞典
+  max_phrase_length: 4 # 最大自動成詞詞長
+  disable_user_dict_for_patterns: 
+    - "^z.*$"
+    - "^[a-y]{1,2}$"
+
 recognizer:
   import_preset: default
   patterns:
     punct: "^/([a-z]+|[0-9])$"
     reverse_lookup: "^z[a-z]*$"
+
 reverse_lookup:
   dictionary: pinyin_simp
   preedit_format:
-    - "xform/([nljqxy])v/$1ü/"
+    - "xform/([nl])v/$1ü/"
+    - "xform/([jqxy])v/$1u/"
+
   prefix: z
   tips: "[拼音]"
