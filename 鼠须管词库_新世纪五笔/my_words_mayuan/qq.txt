@@ -499,7 +499,7 @@
 梁上君子	ihvb
 考生	fttg
 书皮	nnhc
-警民	aqnn
+警民	aqna
 援助	reeg
 撂倒	rlwg
 赏析	ipsr
@@ -829,7 +829,7 @@
 装入	ufty
 红烧肉	xomw
 渣子	isbb
-李世民	sann
+李世民	sana
 检字	swpb
 耳麦	bggt
 歌舞团	srlf
@@ -1067,7 +1067,7 @@
 戏楼	caso
 跌宕起伏	kpfw
 医疗费	auxj
-民俗	nnww
+民俗	naww
 投胎	rwec
 自卫队	tbbw
 门洞	uyim
@@ -1430,7 +1430,7 @@
 封严	ffgo
 取样	bcsu
 友军	dcpl
-江泽民	iinn
+江泽民	iina
 看点	rhhk
 雨后春笋	frdt
 循序渐进	toif
@@ -1992,7 +1992,7 @@
 物色	tqqc
 余音袅袅	wuqq
 伴你	wuwq
-居民	ndnn
+居民	ndna
 纸箱	xqts
 刮目相看	thsr
 截图	fwlt
@@ -3437,7 +3437,7 @@
 调虎离山	yhym
 变频器	yhkk
 阎王	uqgg
-灾民	ponn
+灾民	pona
 体系	wstx
 潇洒	iais
 加进	ekfj
@@ -4438,7 +4438,7 @@
 这么办	ytew
 承销	bdqi
 摄氏度	rqoa
-游民	iynn
+游民	iyna
 开头	gaud
 乔迁	tdtf
 破涕为笑	diyt
@@ -5100,7 +5100,7 @@
 邮编	mbxy
 授课	reyj
 难于	cwgf
-良民	yvnn
+良民	yvna
 租税	tetu
 平反	gurc
 定性	pgnt
@@ -5729,7 +5729,7 @@
 内忧外患	mnqk
 勤问	akuk
 之巅	ppmf
-民情	nnng
+民情	nang
 天文馆	gyqn
 逃过	qifp
 新店	usoh
@@ -5758,7 +5758,7 @@
 外柔内刚	qcmm
 工农联盟	apbj
 内情	mwng
-臣民	ahnn
+臣民	ahna
 淡紫	iohx
 误算	ykth
 想些	shhx
@@ -6436,7 +6436,7 @@
 魔方	osyy
 道貌岸然	uemq
 灵机	vosw
-民防	nnby
+民防	naby
 自传	thwf
 看吧	rhkc
 扶摇直上	rrfh
@@ -6456,7 +6456,7 @@
 每本	txsg
 恣意妄为	uuyy
 小农经济	ipxi
-民委	nntv
+民委	natv
 快说	nnyu
 欠下	qwgh
 考研	ftdg
@@ -6758,7 +6758,7 @@
 周游	mfiy
 日记本	dysg
 秤砣	tgdp
-侨民	wtnn
+侨民	wtna
 风挡	wrri
 烘托	oart
 最晚	jbjq
@@ -7054,7 +7054,7 @@
 各站	tkuh
 很丑	tvnh
 名家	qkpg
-与民	gnnn
+与民	gnna
 梅雨	stfg
 勤听	akkr
 酿酒	sgis
@@ -7149,7 +7149,7 @@
 军衔制	ptrm
 华盛顿	wdgb
 身手	tmrt
-农民	penn
+农民	pena
 糖浆	oouq
 升降	tabt
 寡言	pdyy
@@ -7168,7 +7168,7 @@
 造就	tfyk
 岂非	mnhd
 军分区	pwar
-难民	cwnn
+难民	cwna
 纪念碑	xwdr
 光雕	igmf
 某种	aftk
@@ -7267,7 +7267,7 @@
 大政	ddgh
 发端	ntum
 五十	ggfg
-民谣	nnye
+民谣	naye
 让它	yhpx
 意乱	ujtd
 除号	bwkg
@@ -7398,7 +7398,7 @@
 放手	ytrt
 割肉	pdmw
 连挂	lprf
-民意	nnuj
+民意	nauj
 联合组织	bwxx
 售卖	wyfn
 补肾	pujc
@@ -8734,7 +8734,7 @@
 尽孝	nyft
 与谁	gnyw
 星星之火	jjpo
-愚民	jmnn
+愚民	jmna
 化蝶	wxja
 准考证	ufyg
 的啦	rqkr
@@ -9023,7 +9023,7 @@
 空降	pwbt
 边框	epsa
 串接	kkru
-村民	sfnn
+村民	sfna
 卖春	fndw
 柴米油盐	hoif
 回禀	lkyl
@@ -9847,7 +9847,7 @@
 联邦	budt
 打紧	rsjc
 进底	fjoq
-饥民	qnnn
+饥民	qnna
 图板	ltsr
 风沙	wrii
 占领	hkwy
@@ -11694,7 +11694,7 @@
 免于	qkgf
 主外	ygqh
 闺女	ufvv
-民变	nnyo
+民变	nayo
 放电	ytjn
 逼良为娼	gyyv
 布谷	dmww
@@ -11761,7 +11761,7 @@
 缩尺	xpny
 历史	dekr
 一二三四	gfdl
-民间	nnuj
+民间	nauj
 义务兵	ytrg
 拨号	rnkg
 霓虹灯	fjos
@@ -11769,7 +11769,7 @@
 咸鱼翻身	dqtt
 合肥市	weym
 呼叫	ktkn
-市民	ymnn
+市民	ymna
 互见	gxmq
 爱你	epwq
 豁然开朗	pqgy
@@ -11924,7 +11924,7 @@
 耳目	bghh
 具备	hwtl
 夜晚	ywjq
-民妇	nnvv
+民妇	navv
 互感	gxdg
 多宗	qqpf
 在所不辞	drdt
@@ -13472,7 +13472,7 @@
 招摇撞骗	rrrc
 摇铃	reqw
 美其名曰	uaqj
-彩民	esnn
+彩民	esna
 婚配	vqsg
 烈日	gqda
 打泡	rsiq
@@ -13529,7 +13529,7 @@
 安庆	pvod
 微生物	tttq
 铭刻	qqyn
-民营	nnap
+民营	naap
 穷兵黩武	prlf
 卡丁车	hslg
 愤慨	nfnv
@@ -13881,7 +13881,7 @@
 外侧	qhwm
 一二三	gfdg
 干脆利落	feta
-民心	nnny
+民心	nany
 行李	tgsb
 伴有	wude
 依托	wyrt
@@ -16679,7 +16679,7 @@
 记者	ynft
 中弹	khxu
 刀斧	vnwr
-民盟	nnje
+民盟	naje
 绢花	xkaw
 真空	fhpw
 百年	djrh
@@ -16759,7 +16759,7 @@
 因而	lddm
 家常	pgip
 嫔妃	vpvn
-股民	ewnn
+股民	ewna
 断气	onrn
 破解版	dqth
 度量衡	ojtq
@@ -18629,7 +18629,7 @@
 无休止	fwhh
 校官	syph
 单独	ulqt
-安民	pvnn
+安民	pvna
 舒张	wfxt
 蛇蝎心肠	jjne
 泳装	iyuf
@@ -18797,7 +18797,7 @@
 叹惜	kcna
 恩格斯	lsad
 困守	lspf
-富民	pgnn
+富民	pgna
 乍听	thkr
 行棋	tgsa
 初到	pugc
@@ -19572,7 +19572,7 @@
 掀风鼓浪	rwfi
 浅蓝	ifaj
 以内	nymw
-乡民	xtnn
+乡民	xtna
 使劲	wgca
 特殊情况	tgnu
 上书	hgnn
@@ -19793,7 +19793,7 @@
 太暗	dyju
 着笔	ugtt
 乌龙	qndx
-人民	wwnn
+人民	wwna
 男方	leyy
 八仙	wtwm
 竹竿	thtf
@@ -19996,7 +19996,7 @@
 老歌	ftsk
 企图	whlt
 魂不附体	fdbw
-烟民	olnn
+烟民	olna
 彩棚	esse
 局级	nnxb
 咔嚓	khkp
@@ -20595,7 +20595,7 @@
 剪刀	uevn
 也让	bnyh
 来说	goyu
-民愤	nnnf
+民愤	nanf
 首季	uttb
 芒果	ayjs
 灼热	oqrv
@@ -20638,7 +20638,7 @@
 宣讲	pgyf
 气势汹汹	rrii
 轮班	lwgy
-民办	nnew
+民办	naew
 着陆	ugbg
 枯叶	sdkf
 幼稚	xetw
@@ -22812,7 +22812,7 @@
 不须	dhed
 爱才如命	efvw
 陆战	bghk
-子民	bbnn
+子民	bbna
 双管齐下	ctyg
 至强	gcxk
 稳重	tqtg
@@ -23010,7 +23010,7 @@
 穿衣戴帽	pyfm
 色情	qcng
 政权	ghsc
-民兵	nnrg
+民兵	narg
 终结者	xxft
 称誉	tqig
 半圆	uglk
@@ -23848,7 +23848,7 @@
 古往今来	dtwg
 打假	rswn
 热带	rvgk
-国民	lgnn
+国民	lgna
 缴销	xrqi
 上证	hgyg
 国史	lgkr
@@ -24318,7 +24318,7 @@
 批复	rxtj
 充塞	ycpa
 刹住	rswy
-民声	nnfn
+民声	nafn
 包裹	qnyj
 借条	wats
 引水	xhii
@@ -25547,7 +25547,7 @@
 夜莺	ywap
 窘迫	pwrp
 走掉	fhrh
-渔民	iqnn
+渔民	iqna
 迫于	rpgf
 怪僻	ncwn
 唯独	kwqt
@@ -25819,7 +25819,7 @@
 正合我意	gwtu
 肢解	efqe
 虎牙	haah
-小民	ihnn
+小民	ihna
 事必躬亲	gntu
 佳作	wfwt
 柴油	hxim
@@ -28216,7 +28216,7 @@
 避而不谈	nddy
 软笔	lqtt
 批转	rxlf
-选民	tfnn
+选民	tfna
 创新能力	wuce
 弹唱	xukj
 话锋一转	yqgl
@@ -28357,7 +28357,7 @@
 交付	ywwf
 鸡笼	cqtd
 谋事在人	ygdw
-民权	nnsc
+民权	nasc
 亚虫	gojh
 转手	lfrt
 愿同	drmg
@@ -28836,7 +28836,7 @@
 过目	fphh
 鼓捣	fkrq
 减负	udqm
-民宅	nnpt
+民宅	napt
 执政	rvgh
 害眼	pdhv
 必读	ntyf
@@ -29235,7 +29235,7 @@
 吊桥	kmst
 清华同方	iwmy
 轻敌	lctd
-民工	nnaa
+民工	naaa
 毫不犹豫	ydqc
 奇谈怪论	dyny
 走遍	fhyn
@@ -29777,7 +29777,7 @@
 取经	bcxc
 供应商	woyu
 获准	aquw
-草民	ajnn
+草民	ajna
 煮沸	ftix
 延误	thyk
 细小	xlih
@@ -30645,7 +30645,7 @@
 鑫谷	qqww
 总装	ukuf
 吱声	kffn
-刁民	ngnn
+刁民	ngna
 前期	uead
 参拜	cdrd
 力挫群雄	ervd
@@ -31084,7 +31084,7 @@
 绿灯	xvos
 有味	dekf
 大意	dduj
-平民	gunn
+平民	guna
 截取	fwbc
 舞姿	rluq
 搅和	ritk
@@ -31139,7 +31139,7 @@
 唉声叹气	kfkr
 不知轻重	dtlt
 打鸣	rskq
-便民	wgnn
+便民	wgna
 光焰	igoq
 客商	ptyu
 三资企业	duwo
@@ -31323,7 +31323,7 @@
 论据	ywrn
 半生不熟	utdy
 冬小麦	tigt
-殖民	gqnn
+殖民	gqna
 鼠窃狗盗	epqu
 上镜	hgqu
 统辖	xylp
@@ -31376,7 +31376,7 @@
 报复	rbtj
 太子	dybb
 静音	geuj
-山民	mmnn
+山民	mmna
 攀谈	sryo
 开采	gaes
 船票	tesf
@@ -31553,7 +31553,7 @@
 响遏行云	kjtf
 季报	tbrb
 细枝	xlsf
-网民	mrnn
+网民	mrna
 看小孩	riby
 知难而上	tcdh
 介绍所	wxrn
@@ -31968,7 +31968,7 @@
 不由自主	dmty
 灯具	oshw
 斧凿	wrog
-回民	lknn
+回民	lkna
 职高	bkyk
 不得人心	dtwn
 顶门	sduy
@@ -32016,7 +32016,7 @@
 虎符	hatw
 浓妆	ipuv
 金蝉脱壳	qjef
-利民	tjnn
+利民	tjna
 陈列	bagq
 餐巾	hqmh
 亮底	ykoq
@@ -32412,7 +32412,7 @@
 苗条	alts
 互用	gxeh
 派人	irww
-民企	nnwh
+民企	nawh
 追随	wnbd
 男尸	lenn
 从中作梗	wkws
@@ -33125,7 +33125,7 @@
 挺怪	rtnc
 经文	xcyy
 冷库	uwol
-公民	wcnn
+公民	wcna
 偶合	wjwg
 黑板报	lsrb
 光亮	igyk
@@ -33788,7 +33788,7 @@
 鼻尖	thid
 肚脐	efey
 笑口常开	tkig
-贱民	mfnn
+贱民	mfna
 剪枝	uesf
 风平浪静	wgig
 展示会	nfwf
@@ -33859,7 +33859,7 @@
 冥想	pjsh
 调来	ymgo
 区划	araj
-民政	nngh
+民政	nagh
 当上	ivhg
 微机	tmsw
 右脚	dkef
@@ -34282,7 +34282,7 @@
 暴降	jabt
 之喜	ppfk
 圆球	lkgg
-民怨	nnqb
+民怨	naqb
 拆下	rrgh
 因噎废食	lkow
 绝不	xqdh
@@ -34924,7 +34924,7 @@
 不毛之地	dtpf
 同心协力	mnfe
 驻地	cgfb
-军民	plnn
+军民	plna
 教育事业	fygo
 右侧	dkwm
 食肉	wymw
@@ -35268,7 +35268,7 @@
 应接不暇	ordj
 裹在	yjdh
 读物	yftq
-民法	nnif
+民法	naif
 梦想	sssh
 识字	ykpb
 抵消	rqii
@@ -36411,7 +36411,7 @@
 柴门	hxuy
 小城	ihfd
 困顿	lsgb
-民革	nnak
+民革	naak
 粮站	oyuh
 纤维	xtxw
 铁证	qryg
@@ -36509,7 +36509,7 @@
 羞于	uggf
 低压	wqdf
 军帽	plmh
-王永民	gynn
+王永民	gyna
 速决	gkun
 辩说	udyu
 辽阔	bpui
@@ -36579,7 +36579,7 @@
 酌量	sgjg
 扁担	ynrj
 吓倒	kgwg
-牧民	ttnn
+牧民	ttna
 开庭	gaot
 泡茶	iqaw
 落满	aiia
@@ -37126,7 +37126,7 @@
 姑息	vdth
 半途而废	uwdo
 豪言壮语	yyuy
-民歌	nnsk
+民歌	nask
 拉动	rufc
 忘掉	ynrh
 摇唇鼓舌	rdft
@@ -38143,7 +38143,7 @@
 岳阳	rgbj
 天下乌鸦一般黑	ggql
 线上	xfhg
-民航	nnte
+民航	nate
 高科技	ytrf
 坚果	jcjs
 潜伏	ifwd
@@ -38902,7 +38902,7 @@
 祸患	pykk
 链锁	qlqi
 实践	pukh
-民众	nnww
+民众	naww
 疗养	ubuf
 配乐	sgtn
 松弛	swxb
@@ -39461,7 +39461,7 @@
 挺乐	rttn
 下马	ghcg
 毒物	gxtq
-贫民	wvnn
+贫民	wvna
 鲜花	qgaw
 项链	adql
 归公	jvwc
@@ -39869,7 +39869,7 @@
 失禁	rwss
 奔波	dfih
 丰胸	dheq
-民事	nngk
+民事	nagk
 国庆	lgod
 呈送	kgud
 好想	vbsh
@@ -40602,7 +40602,7 @@
 自吹自擂	tktr
 缴付	xrwf
 专有	fnde
-移民	tqnn
+移民	tqna
 壮烈	ufgq
 友善	dcug
 围捕	lfrg
@@ -40631,7 +40631,7 @@
 包你	qnwq
 权谋	scya
 听出	krbm
-民主	nnyg
+民主	nayg
 社稷	pytl
 纱布	xidm
 贤惠	jcgj
@@ -41549,7 +41549,7 @@
 客户	ptyn
 快捷方式	nrya
 富彩	pges
-民居	nnnd
+民居	nand
 全日	wgda
 外向	qhtm
 认命	ywwg
@@ -41646,7 +41646,7 @@
 出题	bmjg
 桌上	hjhg
 不痛不痒	dudu
-汉民	icnn
+汉民	icna
 愈发	wgnt
 便宜没好货	wpiw
 大字报	dprb
@@ -43788,7 +43788,7 @@
 花雕	awmf
 朗文	yvyy
 雨具	fghw
-民族	nnyt
+民族	nayt
 转向	lftm
 友情	dcng
 联系方式	btya
@@ -44432,9 +44432,9 @@
 路径	khtc
 供货	wawx
 这项	ypad
-民风	nnwr
+民风	nawr
 活灵活现	ivig
-为民	ytnn
+为民	ytna
 买空卖空	npfp
 单色	ulqc
 围歼	lfgq
@@ -44748,13 +44748,13 @@
 活动	itfc
 温州	ijyt
 骨髓	meme
-民警	nnaq
+民警	naaq
 配额	sgpt
 站内	uhmw
 试考	yaft
 栽培	fsfu
 人手	wwrt
-乱民	tdnn
+乱民	tdna
 侧视	wmpy
 菲律宾	atpr
 税率	tuyx
@@ -45214,7 +45214,7 @@
 迷魂汤	ofin
 关联	udbu
 征文	tgyy
-民强	nnxk
+民强	naxk
 显效	joyw
 道人	utww
 扎根	rnsv
@@ -45326,7 +45326,7 @@
 嫡传	vywf
 开机	gasw
 寨子	pabb
-民用	nneh
+民用	naeh
 半信半疑	uwux
 托着	rtug
 答曰	twjh
