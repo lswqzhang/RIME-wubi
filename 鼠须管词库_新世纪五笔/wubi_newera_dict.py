@@ -8,6 +8,10 @@ from __future__ import unicode_literals
 from collections import defaultdict
 import os
 
+import sys
+if sys.version_info.major == 2:
+    raise RuntimeError('please use Python 3')
+
 
 class WubiNeweraDict(object):
     WORD_MAYUAN_DICT = defaultdict(list)
@@ -52,7 +56,7 @@ class WubiNeweraDict(object):
 
         fs = os.listdir(fdir)
         for fpath in fs:
-            if fpath.startswith(('.', '~')):
+            if not fpath.endswith('.txt') or fpath.startswith(('.', '~')):
                 continue
 
             f = open(fdir+fpath)
@@ -110,7 +114,12 @@ class WubiNeweraDict(object):
                     if weight == 0 and len(mayuan) == 4:
                         weight = self.MAYUAN_WEIGHT[mayuan]
 
-                    f.write('{}\t{}\t{}\n'.format(word, mayuan, weight))
+                    if len(mayuan) == 1:
+                        stem = self.WORD_MAYUAN_DICT[word][0][:2]
+                        print('word:', word, 'stem:', stem)
+                        f.write('{}\t{}\t{}\t{}\n'.format(word, mayuan, weight, stem))
+                    else:
+                        f.write('{}\t{}\t{}\n'.format(word, mayuan, weight))
 
     def write_into_squirrel(self, fpath):
         print('write into squirrel')
@@ -129,7 +138,10 @@ def main():
     wubi = WubiNeweraDict()
     wubi.generate_single_word_dict('./ibus_wubi.txt')
     wubi.generate_mayuan('./my_words')
-    # wubi.write_into_squirrel('/Users/tu/Library/Rime/wubinewera.dict.yaml')
+    wubi.write_into_squirrel('./RIME-wubinewera/wubinewera.dict.yaml')
+
+    if os.path.exists('/Users/tu/Library/Rime/'):
+        os.system('cp ./RIME-wubinewera/wubinewera.dict.yaml /Users/tu/Library/Rime/wubinewera.dict.yaml')
 
 
 if __name__ == '__main__':

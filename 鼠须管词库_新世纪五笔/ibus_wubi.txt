@@ -3127,7 +3127,6 @@
 䃡   daqj    18610
 奁   daru    26036
 砹   dary    26035
-日   date    16
 硗   datq    26034
 砌   dav 26033
 砌   davt    26033
@@ -13920,7 +13919,6 @@
 山   mm  13
 嶩   mmae    11432
 賟   mmaw    11431
-   mmb 0
 㟨   mmdj    11430
 㠦   mmdu    11429
 岟   mmdy    11428
@@ -28448,7 +28446,7 @@
 餧   wytv    1750
 倣   wyty    1564
 餓   wyty    1747
-飠   wyty    1748
+飠   wyty    0
 伪   wyty    21237
 亽   wyu 1563
 傍   wyu 21215
@@ -29054,8 +29052,8 @@
 䋋   xnan    1196
 㢯   xnan    1197
 纟   xnng    21131
-緡   xnnj    1198
-缗   xnnj    21135
+緡   xnaj    1198
+缗   xnaj    21135
 繏   xnnw    1176
 䋟   xnny    1174
 糹   xnny    1175
@@ -30120,7 +30118,7 @@
 甂   ynmy    458
 记   ynn 26665
 記   ynn 456
-氓   ynan    20935
+氓   ynna    20935
 䛉   ynan    497
 扇   ynnd    20934
 戺   ynnn    455

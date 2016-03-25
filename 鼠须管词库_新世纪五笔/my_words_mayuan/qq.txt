@@ -529,7 +529,7 @@
 清洁	igif
 烟鬼	olrq
 外柔中刚	qckm
-中日	khda
+中日	khjj
 好帖	vbmh
 一路	ggkh
 原子弹	dbxu
@@ -595,7 +595,7 @@
 女警	vvaq
 公正廉明	wgoj
 这家	yppg
-过日子	fdbb
+过日子	fjbb
 题词	jgyn
 刀面	vndm
 勇气	cern
@@ -780,7 +780,7 @@
 背井离乡	ufyx
 自大	thdd
 饶恕	qnvk
-白日做梦	rdws
+白日做梦	rjws
 传诵	wfyc
 把斋	rcyd
 内设	mwyw
@@ -858,7 +858,7 @@
 消毒	iigx
 和衷共济	tyai
 举行	igtg
-蜀犬吠日	ldkd
+蜀犬吠日	ldkj
 服饰	ebqn
 典当	maiv
 使节	wgab
@@ -919,7 +919,7 @@
 铁器	qrkk
 婚庆	vqod
 大山	ddmm
-旷日持久	jdrq
+旷日持久	jjrq
 查出	sjbm
 老婆	ftih
 难上加难	chec
@@ -1170,7 +1170,7 @@
 恒河沙数	niio
 农历	pede
 受苦	epad
-丽日	gmda
+丽日	gmjj
 忐忑不安	hgdp
 进行曲	ftma
 原则	drmj
@@ -1332,7 +1332,7 @@
 诗句	yfqk
 花花绿绿	aaxx
 贴边	mhep
-翌日	nuda
+翌日	nujj
 共通	awce
 河水	isii
 财迷	mfop
@@ -1359,7 +1359,7 @@
 引狼入室	xqtp
 坚硬	jcdg
 晨昏	jdqa
-一日不见	gddm
+一日不见	gjdm
 三明治	djic
 跳蚤	khcy
 学士	ipfg
@@ -1469,7 +1469,7 @@
 私下	tcgh
 着墨	uglf
 全过程	wftk
-假日	wnda
+假日	wnjj
 监听	jtkr
 上有	hgde
 羊城	ugfd
@@ -1826,7 +1826,7 @@
 喇嘛	kgko
 敢于	nbgf
 匀称	qutq
-日下	dagh
+日下	jjgh
 招供	rvwa
 大蒜	ddaf
 二胡	fgde
@@ -1845,7 +1845,7 @@
 能动	cefc
 加大	ekdd
 浅近	ifrp
-光明日报	ijdr
+光明日报	ijjr
 怪谈	ncyo
 心惊肉跳	nnmk
 看在	rhdh
@@ -1894,7 +1894,7 @@
 上空	hgpw
 暴虎冯河	jhui
 捉拿归案	rwjp
-日出	dabm
+日出	jjbm
 桀骜不驯	qgdc
 不进则退	dfmv
 保驾护航	wert
@@ -2063,7 +2063,7 @@
 总有	ukde
 抬举	rcig
 糖葫芦	oaay
-双日	ccda
+双日	ccjj
 点明	hkje
 港台	iack
 局域网	nfmr
@@ -2701,7 +2701,7 @@
 快跑	nnkh
 仍有	wbde
 社会公德	pwwt
-日不暇给	ddjx
+日不暇给	jdjx
 另议	keyy
 身体健康	twwo
 吃药	ktax
@@ -3167,7 +3167,7 @@
 译出	ycbm
 弄虚作假	ghww
 师团	jglf
-人民日报	wndr
+人民日报	wnjr
 诧异	ypna
 链接	qlru
 奖励	uqdg
@@ -3964,7 +3964,7 @@
 不打紧	drjc
 母系	xntx
 新一轮	uglw
-日月	daee
+日月	jjee
 高抬贵手	yrkr
 双飞燕	cnak
 中转	khlf
@@ -4158,7 +4158,7 @@
 强扭	xkrn
 败阵	mtbl
 里出外进	jbqf
-一日千里	gdtj
+一日千里	gjtj
 此去	hxfc
 冰封	uiff
 翻脸	toew
@@ -4326,7 +4326,7 @@
 臭脚	thef
 集训	wyyk
 之后	pprg
-好日子	vdbb
+好日子	vjbb
 拉练	ruxa
 眼泪	hvih
 不足挂齿	dkrh
@@ -4362,7 +4362,7 @@
 草坪	ajfg
 出发	bmnt
 斩仓	lrwb
-昔日	ajda
+昔日	ajjj
 麻利	ostj
 积重难返	ttcr
 风寒	wrpa
@@ -4456,9 +4456,9 @@
 满车	ialg
 油彩	imes
 堆放	fwyt
-天长日久	gtdq
+天长日久	gtjq
 闪龙	uwdx
-日前	daue
+日前	jjue
 总成绩	udxg
 线路板	xksr
 书记	nnyn
@@ -4574,7 +4574,7 @@
 共度	awoa
 酣畅	sgjh
 量产	jgut
-日久见人心	dqmn
+日久见人心	jqmn
 立论	uuyw
 岂是	mnjg
 吃饭	ktqn
@@ -4679,7 +4679,7 @@
 热风	rvwr
 抱薪救火	rago
 静物	getq
-整日	gkda
+整日	gkjj
 服老	ebft
 渲染	ipiv
 良种	yvtk
@@ -5309,7 +5309,7 @@
 就餐	ykhq
 食古不化	wddw
 党员	ipkm
-暗无天日	jfgd
+暗无天日	jfgj
 喊醒	kdsg
 它是	pxjg
 喝西北风	ksuw
@@ -5842,7 +5842,7 @@
 楹联	sbbu
 级别	xbke
 餐厅	hqds
-日渐	dail
+日渐	jjil
 太能	dyce
 疯子	uwbb
 粗暴	oeja
@@ -5862,7 +5862,7 @@
 离宫	yrpk
 法规	iffw
 扭送	rnud
-年月日	reda
+年月日	rejj
 沃野千里	ijtj
 自古	thdg
 血债	tlwg
@@ -6117,7 +6117,7 @@
 抗灾	rypo
 小报告	irtf
 锄草	qeaj
-隔日	bgda
+隔日	bgjj
 会面	wfdm
 出家	bmpg
 丰富多彩	dpqe
@@ -6204,7 +6204,7 @@
 童鞋	ujak
 霍地	fwfb
 轻率	lcyx
-拨云见日	rfmd
+拨云见日	rfmj
 背带	uxgk
 暗中	jukh
 说来	yugo
@@ -6487,7 +6487,7 @@
 深入人心	itwn
 为此	ythx
 蒺藜	auat
-日子	dabb
+日子	jjbb
 自觉性	tint
 听天由命	kgmw
 圣灵	cfvo
@@ -6756,7 +6756,7 @@
 漫长	ijta
 失道寡助	rupe
 周游	mfiy
-日记本	dysg
+日记本	jysg
 秤砣	tgdp
 侨民	wtna
 风挡	wrri
@@ -7317,7 +7317,7 @@
 太滥	dyij
 小贩	ihmr
 中档	khsi
-牖中窥日	tkpd
+牖中窥日	tkpj
 三菱	dgaf
 神态	pydy
 身兼	tmuv
@@ -7810,7 +7810,7 @@
 翻土	toff
 胡搅蛮缠	dryx
 脱脂棉	eesr
-同日	mgda
+同日	mgjj
 细根	xlsv
 湖水	idii
 共产党人	auiw
@@ -8540,7 +8540,7 @@
 几步	wthh
 灌水	iaii
 脉搏	eyrg
-周日	mfda
+周日	mfjj
 避难	nkcw
 画面	gldm
 读卡	yfhg
@@ -8600,7 +8600,7 @@
 动词	fcyn
 道观	utcm
 一衣带水	gygi
-何日	wsda
+何日	wsjj
 简历	tude
 包下	qngh
 廉政建设	ogvy
@@ -8770,7 +8770,7 @@
 中国人民银行	klwt
 闭月羞花	ueua
 经查	xcsj
-日头	daud
+日头	jjud
 乱晃	tdji
 赠阅	muuu
 海洛因	iild
@@ -9318,7 +9318,7 @@
 头像	udwq
 飞龙	nudx
 善心	ugny
-留日	qyda
+留日	qyjj
 彩纸	esxq
 歹毒	gqgx
 反而	rcdm
@@ -9502,7 +9502,7 @@
 横断	saon
 管中窥豹	tkpe
 稍后	tirg
-黄道吉日	aufd
+黄道吉日	aufj
 真谛	fhyy
 入队	tybw
 碰伤	duwt
@@ -9521,7 +9521,7 @@
 狂笑	qttt
 风度	wroa
 闯入	ucty
-日本人	dsww
+日本人	jsww
 不在话下	ddyg
 冷汗	uwif
 名著	qkaf
@@ -9660,7 +9660,7 @@
 纪要	xnsv
 会师	wfjg
 存活	dhit
-日后	darg
+日后	jjrg
 逼抢	gkrw
 钢化	qmwx
 冶金	ucqq
@@ -9944,7 +9944,7 @@
 贴近	mhrp
 认证	ywyg
 水火无情	iofn
-近日	rpda
+近日	rpjj
 盛名难副	dqcg
 死心塌地	gnff
 死期	gqad
@@ -10839,7 +10839,7 @@
 协和	fetk
 挂画	rfgl
 守正不阿	pgdb
-日用	daeh
+日用	jjeh
 稻香	tetj
 大煞风景	dqwj
 相约	shxq
@@ -11229,7 +11229,7 @@
 很棒	tvsd
 杆秤	sftg
 剩余价值	twww
-风和日丽	wtdg
+风和日丽	wtjg
 螺丝钉	jxqs
 高清晰	yijs
 条规	tsfw
@@ -11399,7 +11399,7 @@
 惨毒	ncgx
 欢畅	cqjh
 比对	xxcf
-日志	dafn
+日志	jjfn
 莫笑	ajtt
 针剂	qfyj
 忘却	ynfc
@@ -11499,7 +11499,7 @@
 金不换	qdrq
 计时	yfjf
 丰润	dhiu
-日照	dajv
+日照	jjjv
 山野	mmjf
 告诉	tfyr
 鼓起	fkfh
@@ -11723,7 +11723,7 @@
 受命	epwg
 必定	ntpg
 宗室	pfpg
-日期	daad
+日期	jjad
 劳顿	apgb
 荔枝	aesf
 波动	ihfc
@@ -12429,7 +12429,7 @@
 拨浪鼓	rifk
 溺死	ixgq
 如遇	vkjm
-出版日期	btda
+出版日期	btja
 铺衬	qgpu
 满城	iafd
 如前所述	vurs
@@ -12542,7 +12542,7 @@
 堕落	bdai
 马大哈	cdkw
 鼻窦	thpw
-日用品	dekk
+日用品	jekk
 初衷	puyk
 根本	svsg
 谗害	yqpd
@@ -12679,7 +12679,7 @@
 错过	qafp
 情致	nggc
 干扰	fgrd
-改日	ntda
+改日	ntjj
 优级	wdxb
 失陪	rwbu
 开斋	gayd
@@ -13015,7 +13015,7 @@
 前胸	ueeq
 领巾	wymh
 节律	abtv
-日行一善	dtgu
+日行一善	jtgu
 牛郎	tgyv
 贬义	mtyr
 苦心孤诣	anby
@@ -13474,7 +13474,7 @@
 美其名曰	uaqj
 彩民	esna
 婚配	vqsg
-烈日	gqda
+烈日	gqjj
 打泡	rsiq
 冬菇	tuav
 商铺	yuqg
@@ -13592,11 +13592,11 @@
 啊哈	kbkw
 胃病	leug
 拆线图	rxlt
-千日	tfda
+千日	tfjj
 稍差	tiug
 等效	tfyw
 这户	ypyn
-日光灯	dios
+日光灯	jios
 就问	ykuk
 渠道	iaut
 久经沙场	qxif
@@ -13816,7 +13816,7 @@
 门栓	uysw
 苍穹	awpw
 闲人	usww
-宁日	psda
+宁日	psjj
 指间	rxuj
 婚典	vqma
 骨肉	memw
@@ -14002,7 +14002,7 @@
 平素	gugx
 安家立业	ppuo
 大洞	ddim
-年深日久	ridq
+年深日久	rijq
 语感	ygdg
 墙上	ffhg
 近水楼台先得月	rise
@@ -14180,7 +14180,7 @@
 名目	qkhh
 医士	atfg
 泡妞	iqvn
-日月潭	deis
+日月潭	jeis
 蝈蝈	jljl
 世纪	anxn
 屋脊	ngiw
@@ -14240,7 +14240,7 @@
 兴亡	igyn
 才够	ftqk
 诳语	yqyg
-日趋	dafh
+日趋	jjfh
 内附	mwbw
 推车	rwlg
 器械	kksa
@@ -14260,7 +14260,7 @@
 层报	nfrb
 无阻	fqbe
 史料	krou
-落日	aida
+落日	aijj
 过慢	fpnj
 码元	dcfq
 斜杠	wgsa
@@ -14439,7 +14439,7 @@
 凋零	umfw
 店堂	ohip
 私产	tcut
-度日如年	odvr
+度日如年	ojvr
 研究员	dpkm
 通例	cewg
 博大	fgdd
@@ -14483,7 +14483,7 @@
 急忙	qvny
 钉耙	qsdi
 小姑	ihvd
-自即日起	tvdf
+自即日起	tvjf
 怀想	ndsh
 暴风雨	jwfg
 手记	rtyn
@@ -14586,7 +14586,7 @@
 外销	qhqi
 协助	feeg
 禁锢	ssql
-百日	djda
+百日	djjj
 掘墓	rnaj
 编创	xywb
 汇市	iaym
@@ -14619,7 +14619,7 @@
 纹理	xygj
 潜水员	iikm
 分布	wvdm
-光天化日	igwd
+光天化日	igwj
 挂在	rfdh
 天高	gdyk
 枪击	swgb
@@ -14808,7 +14808,7 @@
 搞垮	ryfd
 能言善辩	cyuu
 面授机宜	drsp
-旭日	vjda
+旭日	vjjj
 逼婚	gkvq
 飞禽走兽	nwfu
 水藻	iiai
@@ -14970,7 +14970,7 @@
 彩灯	esos
 投下	rwgh
 比方	xxyy
-日内瓦	dmgn
+日内瓦	jmgn
 用功	ehae
 间隔	ujbg
 落叶归根	akjs
@@ -15072,7 +15072,7 @@
 大幅	ddmh
 小农	ihpe
 机车	swlg
-值日	wfda
+值日	wfjj
 宝玉	pggy
 粪筐	oata
 斗鸡	ufcq
@@ -15213,7 +15213,7 @@
 自得	thtj
 取款	bcff
 芭蕉	acaw
-心劳日拙	nadr
+心劳日拙	najr
 如来	vkgo
 口轻	kklc
 磷矿	dodo
@@ -15306,7 +15306,7 @@
 红杏	xask
 团体	lfws
 同义	mgyr
-日夜兼程	dyut
+日夜兼程	jyut
 平整	gugk
 称为	tqyt
 书报费	nrxj
@@ -15792,7 +15792,7 @@
 生分	tgwv
 请假	ygwn
 急公好义	qwvy
-重见天日	tmgd
+重见天日	tmgj
 盆景	wvjy
 用武之地	efpf
 国债	lgwg
@@ -15885,7 +15885,7 @@
 倒流	wgiy
 挺慢	rtnj
 毛孩	tfby
-日食	dawy
+日食	jjwy
 据悉	rnto
 饭菜	qnae
 随处	bdth
@@ -16097,7 +16097,7 @@
 孩童	byuj
 当中	ivkh
 头等	udtf
-全日制	wdrm
+全日制	wjrm
 拖后腿	rrev
 越过	fhfp
 门帘	uypw
@@ -16238,7 +16238,7 @@
 引脚	xhef
 宴请	pjyg
 菜刀	aevn
-有朝一日	dfgd
+有朝一日	dfgj
 凝望	uxyn
 风云变幻	wfyx
 高明	ykje
@@ -16411,7 +16411,7 @@
 小成	ihdn
 自如	thvk
 开刀	gavn
-日程	datk
+日程	jjtk
 章节	ujab
 起始	fhvc
 雍容华贵	ypwk
@@ -16473,7 +16473,7 @@
 胜利	ettj
 用力	ehen
 守则	pfmj
-日军	dapl
+日军	jjpl
 留校	qysy
 万劫不复	gfdt
 不料	dhou
@@ -16504,7 +16504,7 @@
 师承	jgbd
 正比例	gxwg
 东半球	augg
-遮天蔽日	ogad
+遮天蔽日	ogaj
 冤枉	pqsg
 参加	cdek
 嫣然一笑	vqgt
@@ -16844,7 +16844,7 @@
 乡约	xtxq
 婵娟	vuvk
 腻虫	eajh
-日常生活	diti
+日常生活	jiti
 翁姑	wcvd
 侵蚀	wvqn
 过往	fpty
@@ -17182,7 +17182,7 @@
 出任	bmwt
 烟纸	olxq
 屈居	nbnd
-近日来	rdgo
+近日来	rjgo
 待人接物	twrt
 失声	rwfn
 前嫌	uevu
@@ -17662,7 +17662,7 @@
 面条	dmts
 曲尽其妙	mnav
 出神	bmpy
-时日	jfda
+时日	jfjj
 均与	fqgn
 满足于	ikgf
 农用车	pelg
@@ -18097,11 +18097,11 @@
 见长	mqta
 百官	djph
 简直	tufh
-日夜	dayw
+日夜	jjyw
 下半场	gufn
 竞拍	ukrr
 办案	ewpv
-日全食	dwwy
+日全食	jwwy
 基金会	aqwf
 应用	oieh
 险境	bwfu
@@ -18184,7 +18184,7 @@
 眼拙	hvrb
 你把	wqrc
 初具规模	phfs
-百日咳	ddky
+百日咳	djky
 庭审	otpj
 忍不住	vdwy
 出战	bmhk
@@ -18208,7 +18208,7 @@
 薄礼	aipy
 震撼人心	frwn
 举国上下	ilhg
-即日	vcda
+即日	vcjj
 前方	ueyy
 只爱	kwep
 审校	pjsy
@@ -18242,7 +18242,7 @@
 出租	bmte
 猫头鹰	quow
 挡驾	riek
-日中	dakh
+日中	jjkh
 语境	ygfu
 强身	xktm
 偷水	wwii
@@ -18285,7 +18285,7 @@
 落泪	aiih
 字据	pbrn
 结尾	xfnt
-明日	jeda
+明日	jejj
 伏兵	wdrg
 摄制	rbrm
 巨星	anjt
@@ -18447,7 +18447,7 @@
 吸引	kbxh
 竭尽	ujny
 别怕	kenr
-日本	dasg
+日本	jjsg
 姣美	vyug
 博识	fgyk
 收场	nhfn
@@ -18472,7 +18472,7 @@
 有约	dexq
 知青	tdge
 负隅顽抗	qbfr
-生日	tgda
+生日	tgjj
 值此	wfhx
 防病	byug
 铁质	qrrf
@@ -19124,7 +19124,7 @@
 摊销	rcqi
 越俎代庖	fwwo
 预付	cnwf
-安息日	ptda
+安息日	ptjj
 很多	tvqq
 缓冲区	xuar
 垫板	rvsr
@@ -19204,7 +19204,7 @@
 融合	gkwg
 断线	onxf
 有权	desc
-抗日战争	rdhq
+抗日战争	rjhq
 四十	lhfg
 补白	purr
 鱼钩	qgqq
@@ -19351,7 +19351,7 @@
 帮主	dtyg
 澳门特别行政区	iuta
 奋斗	dluf
-与日俱增	gdwf
+与日俱增	gjwf
 回敬	lkaq
 机务	swte
 版权	thsc
@@ -19681,7 +19681,7 @@
 平常	guip
 总评	ukyg
 笔耕	ttdi
-节假日	awda
+节假日	awjj
 服务	ebte
 春游	dwiy
 物体	tqws
@@ -20007,7 +20007,7 @@
 更丑	gjnh
 国营	lgap
 否定	dhpg
-日韩	dafj
+日韩	jjfj
 催出	wmbm
 早睡	jfht
 经手人	xrww
@@ -20434,7 +20434,7 @@
 只看	kwrh
 军统	plxy
 很快	tvnn
-狂犬吠日	qdkd
+狂犬吠日	qdkj
 从中	wwkh
 灵妙	vovi
 蓬勃	atfp
@@ -20997,7 +20997,7 @@
 刀头	vnud
 黄豆	amgk
 感触	dgqe
-之日	ppda
+之日	ppjj
 烧杯	oasd
 得势	tjrv
 静心	geny
@@ -21484,7 +21484,7 @@
 撑伞	riwu
 伪装	wyuf
 俊郎	wcyv
-来日方长	gdyt
+来日方长	gjyt
 可信度	swoa
 与时俱进	gjwf
 太岁头上动土	dmuf
@@ -21660,7 +21660,7 @@
 废墟	onfh
 纸包	xqqn
 甚妙	advi
-工人日报	awdr
+工人日报	awjr
 销魂	qifc
 闻名于世	uqga
 肃然起敬	vqfa
@@ -21688,7 +21688,7 @@
 也说	bnyu
 独享	qtyk
 开裆裤	gppu
-日以继夜	dnxy
+日以继夜	jnxy
 进到	fjgc
 智谋	tdya
 相间	shuj
@@ -21811,7 +21811,7 @@
 车辆	lglg
 前端	ueum
 徽章	tmuj
-几日	wtda
+几日	wtjj
 正事	ghgk
 宅第	pttx
 面红耳赤	dxbf
@@ -21874,7 +21874,7 @@
 探索	rpfp
 步走	hhfh
 四眼	lhhv
-数日	ovda
+数日	ovjj
 弹簧	xuta
 只怕	kwnr
 详加	yuek
@@ -22010,7 +22010,7 @@
 毫无意义	yfuy
 规范	fwai
 天涯何处无芳草	giwa
-素日	gxda
+素日	gxjj
 手摇	rtre
 楼宇	sopg
 想到	shgc
@@ -22430,7 +22430,7 @@
 死战	gqhk
 发财	ntmf
 高尚	ykim
-日晒雨淋	djfi
+日晒雨淋	jjfi
 大巴	ddcn
 碎布	dydm
 波兰	ihud
@@ -22564,7 +22564,7 @@
 黑屏	lfnu
 屡屡	nono
 气概	rnsv
-双休日	cwda
+双休日	cwjj
 寿比南山	dxfm
 方便面	ywdm
 风口	wrkk
@@ -22693,7 +22693,7 @@
 腮帮子	edbb
 瓜田李下	rlsg
 面值	dmwf
-十年如一日	frvd
+十年如一日	frvj
 掩耳盗铃	rbuq
 刺鼻	gmth
 评审	ygpj
@@ -23134,7 +23134,7 @@
 少不更事	idgg
 承袭	bddx
 妄自	ynth
-夏日	dhda
+夏日	dhjj
 核实	sypu
 伉俪情深	wwni
 面色	dmqc
@@ -23217,7 +23217,7 @@
 支委	fctv
 声纳	fnxm
 等同于	tmgf
-旭日东升	vdat
+旭日东升	vjat
 汇款	iaff
 就事	ykgk
 几枚	wtst
@@ -23771,7 +23771,7 @@
 农牧业	ptog
 相思	shln
 适度	tdoa
-某日	afda
+某日	afjj
 审计	pjyf
 球衣	ggye
 近水楼台	risc
@@ -24014,7 +24014,7 @@
 石膏	dgyk
 胡子	debb
 做贼心虚	wmnh
-并日而食	uddw
+并日而食	ujdw
 嘹亮	kdyk
 租给	texw
 休憩	wstd
@@ -24366,8 +24366,8 @@
 考验	ftcg
 缓兵之计	xrpy
 私有企业	tdwo
-日历	dade
-单日	ulda
+日历	jjde
+单日	uljj
 多彩	qqes
 毅然决然	uquq
 系于	txgf
@@ -25680,7 +25680,7 @@
 红装	xauf
 只用	kweh
 照应	jvoi
-白日梦	rdss
+白日梦	rjss
 杀头	rsud
 宰割	pupd
 活字	itpb
@@ -25753,7 +25753,7 @@
 诛锄异己	yqnn
 速度	gkoa
 空楼	pwso
-一日	ggda
+一日	ggjj
 个把	whrc
 含糊其词	woay
 戏场	cafn
@@ -26206,7 +26206,7 @@
 腰板	essr
 博物院	ftbp
 相框	shsa
-偷天换日	wgrd
+偷天换日	wgrj
 朝代	fjwa
 靠岸	tfmd
 城郭	fdyk
@@ -26462,7 +26462,7 @@
 主事	yggk
 要钱	svqf
 对白	cfrr
-今日	wyda
+今日	wyjj
 停泊	wyir
 虚位以待	hwnt
 矫正	tdgh
@@ -26605,7 +26605,7 @@
 名录	qkvi
 调皮鬼	yhrq
 以后	nyrg
-日化	dawx
+日化	jjwx
 发电	ntjn
 军火	ploo
 离情	yrng
@@ -26640,7 +26640,7 @@
 抗菌素	ragx
 垫脚	rvef
 花蕊	awan
-日积月累	dtel
+日积月累	jtel
 清缴	igxr
 一事无成	ggfd
 镣铐	qdqf
@@ -26745,7 +26745,7 @@
 请勿	ygqr
 变星	yojt
 一气之下	grpg
-日月星辰	dejd
+日月星辰	jejd
 熙熙攘攘	aarr
 龙脉	dxey
 药单	axul
@@ -27131,7 +27131,7 @@
 主抓	ygrr
 洋酒	iuis
 凉风	uywr
-日程表	dtge
+日程表	jtge
 更新	gjus
 抱负	rqqm
 扮成	rwdn
@@ -27157,7 +27157,7 @@
 拜别	rdke
 选好	tfvb
 措施	rayt
-工日	aada
+工日	aajj
 结为	xfyt
 掠夺	rydf
 等闲之辈	tuph
@@ -27177,7 +27177,7 @@
 坚持不懈	jrdn
 侧门	wmuy
 书香门第	ntut
-日暮途穷	dawp
+日暮途穷	jawp
 圣洁	cfif
 体力	wsen
 故友	dtdc
@@ -27322,7 +27322,7 @@
 挖掘	rprn
 手绘	rtxw
 来源	goid
-日间	dauj
+日间	jjuj
 每册	txmm
 病变	ugyo
 凭着	wtug
@@ -27780,7 +27780,7 @@
 盲流	yniy
 盆腔	wvep
 烧菜	oaae
-日新月异	duen
+日新月异	juen
 舒坦	wffj
 前后	uerg
 学识	ipyk
@@ -27808,7 +27808,7 @@
 核裂变	sgyo
 用药	ehax
 一气呵成	grkd
-一日三餐	gddh
+一日三餐	gjdh
 传染	wfiv
 送行	udtg
 历法	deif
@@ -27985,7 +27985,7 @@
 麻辣	osud
 不妙	dhvi
 唇红齿白	dxhr
-那日	ngda
+那日	ngjj
 大踏步	dkhh
 法定	ifpg
 装订	ufys
@@ -28024,7 +28024,7 @@
 记功	ynae
 神佑	pywd
 呆若木鸡	kasc
-日语	dayg
+日语	jjyg
 肥美	ecug
 佛性	wxnt
 嫩嫩	vgvg
@@ -28644,7 +28644,7 @@
 密封	pnff
 名品	qkkk
 芒硝	aydi
-首日	utda
+首日	utjj
 休克	wsdq
 运筹帷幄	ftmm
 怀才不遇	nfdj
@@ -28762,7 +28762,7 @@
 什么意思	wtul
 想要	shsv
 逆流	ubiy
-日益	dauw
+日益	jjuw
 后因	rgld
 走开	fhga
 瞅瞅	htht
@@ -28793,7 +28793,7 @@
 街坊	tffy
 自取灭亡	tbgy
 耕地	difb
-风吹日晒	wkdj
+风吹日晒	wkjj
 家喻户晓	pkyj
 引渡	xhio
 冲力	uken
@@ -28906,7 +28906,7 @@
 决一	ungg
 选材	tfsf
 接吻	rukq
-平日	guda
+平日	gujj
 他人	wbww
 露宿	fkpw
 穿上	pwhg
@@ -28946,7 +28946,7 @@
 怒气冲天	vrug
 面容	dmpw
 到达	gcdp
-日光	daig
+日光	jjig
 推选	rwtf
 搏击	rggb
 坚定不移	jpdt
@@ -29464,7 +29464,7 @@
 星城	jtfd
 不得已	dtnn
 备件	tlwt
-时至今日	jgwd
+时至今日	jgwj
 别绪	kexf
 拜谒	rdyj
 翠微	nytm
@@ -29592,7 +29592,7 @@
 歌谣	skye
 很厚	tvdj
 户籍	yntd
-日立	dauu
+日立	jjuu
 删繁就简	mtyt
 地壳	fbfp
 奉承	dwbd
@@ -30675,7 +30675,7 @@
 做工	wdaa
 断弦	onxy
 直视	fhpy
-节日	abda
+节日	abjj
 好心	vbny
 没什么	iwtc
 心脏病	neug
@@ -30705,7 +30705,7 @@
 以文会友	nywd
 礼尚往来	pitg
 师公	jgwc
-指日可待	rdst
+指日可待	rjst
 蒙人	apww
 复壮	tjuf
 双眸	cchc
@@ -31304,7 +31304,7 @@
 暴行	jatg
 省政府	igow
 金童玉女	qugv
-忌日	nnda
+忌日	nnjj
 趸缴	gqxr
 肺病	egug
 乱臣贼子	tamb
@@ -31722,7 +31722,7 @@
 投考	rwft
 自成	thdn
 麻将	osuq
-日久天长	dqgt
+日久天长	jqgt
 要挟	svrg
 诚意	yduj
 眼液	hviy
@@ -31735,7 +31735,7 @@
 子孙后代	bbrw
 云谲波诡	fyiy
 开设	gayw
-末日	gsda
+末日	gsjj
 汤剂	inyj
 魔女	osvv
 远在天边	fdge
@@ -32246,7 +32246,7 @@
 境况	fuuk
 火大	oodd
 矜持	cnrf
-往日	tyda
+往日	tyjj
 山坡	mmfh
 不肖子孙	dibb
 透风	tbwr
@@ -32520,7 +32520,7 @@
 开窍	gapw
 形状	gaud
 小舅	ihel
-日久	daqy
+日久	jjqy
 国耻	lgbh
 积非成是	thdj
 种过	tkfp
@@ -32782,7 +32782,7 @@
 偕同	wxmg
 同步增长	mhft
 鉴定	jtpg
-抗日	ryda
+抗日	ryjj
 婚嫁	vqvp
 绝无仅有	xfwd
 追着	wnug
@@ -32888,7 +32888,7 @@
 事不关己	gdun
 太淡	dyio
 配送	sgud
-红日	xada
+红日	xajj
 赤金	foqq
 大获全胜	dawe
 小别	ihke
@@ -33673,7 +33673,7 @@
 牧童	ttuj
 钢板	qmsr
 滞纳	igxm
-不可终日	dsxd
+不可终日	dsxj
 论证	ywyg
 破掉	dhrh
 碗口	dpkk
@@ -33694,7 +33694,7 @@
 牵着鼻子走	dutf
 春暖花开	djag
 卡拉	hgru
-早日	jfda
+早日	jfjj
 捣蛋	rqnh
 人声	wwfn
 香脂	tjex
@@ -33714,7 +33714,7 @@
 半边	ugep
 到家	gcpg
 犯难	qtcw
-日杂	davs
+日杂	jjvs
 调研	ymdg
 单间	uluj
 专卖店	ffoh
@@ -35323,7 +35323,7 @@
 海里	itjf
 岿然不动	mqdf
 代表	wage
-无日	fqda
+无日	fqjj
 道术	utsy
 佳句	wfqk
 查阅	sjuu
@@ -35373,7 +35373,7 @@
 迫不及待	rdbt
 端直	umfh
 极其	sbad
-日出而作	dbdw
+日出而作	jbdw
 看透	rhtb
 元勋	fqkm
 暖流	jeiy
@@ -36454,7 +36454,7 @@
 献丑	fmnh
 屏幕	nuaj
 勾通	qcce
-日落	daai
+日落	jjai
 长幼	taxe
 欺人太甚	awda
 烦扰	odrd
@@ -36553,7 +36553,7 @@
 权重	sctg
 剧场	ndfn
 美满	ugia
-日记	dayn
+日记	jjyn
 山道	mmut
 荡除	aibw
 飞禽	nuwy
@@ -36977,7 +36977,7 @@
 不按	dhrp
 唧唧歪歪	kkdd
 囚车	lwlg
-日内	damw
+日内	jjmw
 宝山	pgmm
 摆钟	rlqk
 如堕五里雾中	vbgk
@@ -36997,7 +36997,7 @@
 脱离	euyr
 分赴	wvfh
 总给	ukxw
-日报	darb
+日报	jjrb
 分支	wvfc
 财权	mfsc
 潸然	isqd
@@ -37277,7 +37277,7 @@
 预设	cnyw
 实事	pugk
 镀层	qonf
-侵华日军	wwdp
+侵华日军	wwjp
 按钮	rpqn
 量化	jgwx
 庞杂	odvs
@@ -37523,7 +37523,7 @@
 斜线	wgxf
 此项	hxad
 穷家富路	pppk
-平日里	gdjf
+平日里	gjjf
 大智若愚	dtaj
 引火	xhoo
 幅员辽阔	mkbu
@@ -37891,7 +37891,7 @@
 有偿	dewi
 修补	whpu
 审问	pjuk
-纪念日	xwda
+纪念日	xwjj
 侧重	wmtg
 充军	ycpl
 徒有其表	tdag
@@ -38398,7 +38398,7 @@
 掌上明珠	ihjg
 绸子	xmbb
 纬线	xfxf
-绕梁三日	xidd
+绕梁三日	xidj
 迪斯尼	manx
 颓唐	twov
 电路	jnkh
@@ -38582,7 +38582,7 @@
 回馈	lkqn
 轻描淡写	lrip
 长存	tadh
-夜以继日	ynxd
+夜以继日	ynxj
 巨无霸	affa
 博古通今	fdcw
 驼背	cgux
@@ -39022,7 +39022,7 @@
 指给	rxxw
 二流子	fibb
 好生	vbtg
-当日	ivda
+当日	ivjj
 一定程度	gpto
 恩威并用	ldue
 宗谱	pfyu
@@ -39344,7 +39344,7 @@
 磁矩	dutd
 丝绸	xxxm
 地下	fbgh
-日产	daut
+日产	jjut
 海内外	imqh
 干杯	fgsd
 同门	mguy
@@ -39393,7 +39393,7 @@
 鼠药	enax
 硝酸	disg
 言道	yyut
-惶惶不可终日	nndd
+惶惶不可终日	nndj
 隔岸	bgmd
 贪色	wyqc
 内科	mwtu
@@ -39909,7 +39909,7 @@
 方块字	yfpb
 枣树	gmsc
 认真	ywfh
-度日	oada
+度日	oajj
 之安	pppv
 单干	ulfg
 校旗	syyt
@@ -40129,7 +40129,7 @@
 隔着	bgug
 中叶	khkf
 小学	ihip
-日剧	dand
+日剧	jjnd
 雅观	ahcm
 老大不小	fddi
 七彩虹	aeja
@@ -40143,7 +40143,7 @@
 慕尼黑	anlf
 形式上	gahg
 非洲	hdiy
-连日	lpda
+连日	lpjj
 那副	nggk
 忧国	ndlg
 本队	sgbw
@@ -41529,7 +41529,7 @@
 叫门	knuy
 广收	oynh
 只言片语	kyty
-日戳	danw
+日戳	jjnw
 损毁	rkea
 苟且偷安	aewp
 白雪	rrfv
@@ -41550,7 +41550,7 @@
 快捷方式	nrya
 富彩	pges
 民居	nand
-全日	wgda
+全日	wgjj
 外向	qhtm
 认命	ywwg
 定势	pgrv
@@ -41616,7 +41616,7 @@
 就对	ykcf
 未明	fije
 顶头	sdud
-吉日	fkda
+吉日	fkjj
 走狗	fhqt
 数量	ovjg
 马虎	cgha
@@ -41624,7 +41624,7 @@
 悲切	hdav
 征税	tgtu
 退路	vekh
-日元	dafq
+日元	jjfq
 出生年月	btre
 帮腔	dtep
 恋恋不舍	yydw
@@ -41827,7 +41827,7 @@
 西风	sgwr
 壅塞	yxpa
 热敏	rvtx
-秋日	toda
+秋日	tojj
 延绵	thxr
 性感	ntdg
 做操	wdrk
@@ -41944,7 +41944,7 @@
 以毒攻毒	ngag
 三番五次	dtgu
 求职	gibk
-日上三竿	dhdt
+日上三竿	jhdt
 别吵	keki
 按此	rphx
 气阀	rnuw
@@ -42071,7 +42071,7 @@
 丹青	myge
 海景	itjy
 拖欠	rtqw
-一日三秋	gddt
+一日三秋	gjdt
 正月	ghee
 提篮	rjtj
 巍然	mtqd
@@ -42254,7 +42254,7 @@
 体腔	wsep
 违约	fnxq
 版权所有	tsrd
-日日夜夜	ddyy
+日日夜夜	jjyy
 发脾气	nern
 宿敌	pwtd
 归顺	jvkd
@@ -42340,7 +42340,7 @@
 猜嫌	qtvu
 皇室	rgpg
 打火	rsoo
-如日方中	vdyk
+如日方中	vjyk
 七十年代	afrw
 享乐	yktn
 注册会计师	imwj
@@ -42456,7 +42456,7 @@
 撒种	ratk
 立住	uuwy
 免官	qkph
-终日	xtda
+终日	xtjj
 呼机	ktsw
 早于	jfgf
 排比	rhxx
@@ -42486,7 +42486,7 @@
 歌舞升平	srtg
 跨入	khty
 小洞	ihim
-计日程功	ydta
+计日程功	yjta
 送气	udrn
 恒星	ngjt
 澄清	iwig
@@ -42589,7 +42589,7 @@
 车刀	lgvn
 强制性	xrnt
 鸳鸯	qbmd
-向日	tmda
+向日	tmjj
 酒疯	isuw
 往往	tyty
 修整	whgk
@@ -42634,7 +42634,7 @@
 麦田	gtll
 你的	wqrq
 超级大国	fxdl
-日薄西山	dasm
+日薄西山	jasm
 断垣残壁	ofgn
 每间	txuj
 断档	onsi
@@ -43064,7 +43064,7 @@
 成见	dnmq
 食用菌	weal
 月前	eeue
-多日	qqda
+多日	qqjj
 洞察其奸	ipav
 早了	jfbn
 丑闻	nhub
@@ -43214,7 +43214,7 @@
 绿玉	xvgy
 马铃薯	cqal
 市貌	ymer
-昨日	jtda
+昨日	jtjj
 解答	qetw
 惊奇	nyds
 重阳	tgbj
@@ -43282,7 +43282,7 @@
 图中	ltkh
 鹬蚌相争	cjsq
 发明	ntje
-日久生情	dqtn
+日久生情	jqtn
 愤怒	nfvc
 何年何月	wrwe
 戏谑	cayh
@@ -43305,7 +43305,7 @@
 风趣	wrfh
 撞墙	ruff
 法西斯	isad
-次日	uqda
+次日	uqjj
 孕育	bbyc
 扼杀	rdrs
 官邸	phqa
@@ -43406,7 +43406,7 @@
 姬妾	vauv
 三朝元老	dfff
 承当	bdiv
-如日中天	vdkg
+如日中天	vjkg
 痴心妄想	unys
 生命	tgwg
 警惕	aqnj
@@ -43436,7 +43436,7 @@
 关节	udab
 大拇指	drrx
 相煎何急	suwq
-每日	txda
+每日	txjj
 奔涌	dfic
 城内	fdmw
 雷击	flgb
@@ -44011,7 +44011,7 @@
 对抗赛	crpa
 再见	gmmq
 丛书	wwnn
-他日	wbda
+他日	wbjj
 惯用语	neyg
 博士买驴	ffnc
 空调	pwym
@@ -44199,7 +44199,7 @@
 别提	kerj
 四四禁手	llsr
 依顺	wykd
-日理万机	dggs
+日理万机	jggs
 磕碰	dfdu
 风向	wrtm
 空运	pwfc
@@ -44837,7 +44837,7 @@
 奉劝	dwce
 寂静	phge
 教委	fttv
-日常	daip
+日常	jjip
 兑换	ukrq
 会聚	wfbc
 完成	pfdn
@@ -44945,7 +44945,7 @@
 购销	mqqi
 公用	wceh
 建树	vgsc
-之日起	pdfh
+之日起	pjfh
 剪报	uerb
 各种	tktk
 回火	lkoo
@@ -45169,7 +45169,7 @@
 铺成	qgdn
 贝壳	mhfp
 公断	wcon
-蒸蒸日上	aadh
+蒸蒸日上	aajh
 郑州	udyt
 矿难	docw
 甘霖	affs
@@ -45268,7 +45268,7 @@
 京广线	yoxf
 勤练	akxa
 吟诗	kwyf
-本日	sgda
+本日	sgjj
 选项卡	tahg
 鸭梨	lqtj
 初露锋芒	pfqa
