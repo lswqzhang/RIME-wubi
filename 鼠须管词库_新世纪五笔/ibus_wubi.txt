@@ -4733,7 +4733,7 @@
 力   en  27397
 㐍   enb 17540
 腒   endg    17539
-䏔   enfg    17534
+䏔   enhf    17534
 腛   engf    17538
 䏤   engk    17537
 貑   enhc    17535
@@ -7208,7 +7208,7 @@
 㻕   gnbm    15822
 琚   gnd 25281
 琚   gndg    25281
-㺲   gnfg    15819
+㺲   gnhf    15819
 珝   gng 15821
 与   gng 25280
 与   gngd    25280
@@ -7570,7 +7570,7 @@
 琣   gukg    15583
 璔   gulj    15582
 㻥   gusg    15579
-慭   gusn    15577
+慭   godn    15577
 亊   guvh    15576
 㻩   guvo    15575
 珶   guxt    15574
@@ -10681,7 +10681,7 @@
 蚒   jmyg    13536
 电   jn  27225
 蜛   jndg    13534
-䖡   jnfg    13526
+䖡   jnhf    13526
 蛡   jng 13532
 暅   jngg    13531
 暇   jnh 24603
@@ -10977,7 +10977,7 @@
 㫠   jugh    13339
 蛘   jugh    27214
 蟮   jugk    24529
-蜣   jugn    24532
+蜣   jufq    24532
 㬢   jugy    13337
 蟻   jugy    13338
 曦   jugy    24537
@@ -21852,7 +21852,7 @@
 䤃   sguj    6084
 醅   sguk    22422
 醷   sgun    6083
-梾   sgus    6082
+梾   sgoy    6082
 桱   sgva    6081
 酔   sgvf    6080
 醁   sgvi    6079
@@ -25268,7 +25268,7 @@
 病   ugmw    21821
 㿛   ugmx    3736
 羞   ugn 21750
-羗   ugnc    3535
+羗   ufqc    3535
 羞   ugnf    21750
 翔   ugng    26814
 䍷   ugnh    3530
@@ -27387,7 +27387,7 @@
 侠   wgu 21393
 侠   wgud    21393
 伻   wguf    2305
-俫   wgus    2304
+俫   wgoy    2304
 俓   wgva    2303
 倢   wgvh    2302
 儞   wgwr    2301
@@ -30062,7 +30062,7 @@
 鵳   yneo    485
 讯   ynf 20947
 㧁   ynfc    484
-䚼   ynfg    478
+䚼   ynhf    478
 讯   ynfh    20947
 訊   ynfh    483
 䛝   ynfm    475
