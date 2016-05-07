@@ -1,4 +1,3 @@
-开源	gaid
 一一	gggg
 一个月	gwee
 一会	ggwf
@@ -32,6 +31,7 @@
 二维码	fxdc
 二面角	fdqe
 云存储	fdwy
+云监控	fjrp
 五个	ggwh
 五年	ggrh
 五条	ggts
@@ -90,6 +90,7 @@
 分析化学	wswi
 刚来	mrgo
 别这样	kysu
+刷机	nmsw
 前天	uegd
 前年	uerh
 力场	enfn
@@ -206,6 +207,7 @@
 延边大学	tedi
 开发者	gnft
 开心的	gnrq
+开源	gaid
 开玩笑	ggtt
 异构	nasq
 弄一下	gggh

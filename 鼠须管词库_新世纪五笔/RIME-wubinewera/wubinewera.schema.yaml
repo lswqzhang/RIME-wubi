@@ -58,7 +58,7 @@ switches:
     states: ["通用", "增廣"]
 
 translator:
-  dictionary: wubinewera 
+  dictionary: wubinewera
   enable_charset_filter: true #是否開啓字符集過濾
   enable_sentence: false #是否開啓自動造句
   enable_encoder: true #是否開啓自動造詞
@@ -68,7 +68,7 @@ translator:
   max_phrase_length: 4 # 最大自動成詞詞長
   disable_user_dict_for_patterns: 
     - "^z.*$"
-    - "^[a-y]{1,2}$"
+    - "^[a-y]{1,3}$"
 
 recognizer:
   import_preset: default
