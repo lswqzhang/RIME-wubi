@@ -1,0 +1,19 @@
+# wubi06.custom.yaml
+# save it to: 
+#   ~/.config/ibus/rime  (linux)
+#   ~/Library/Rime       (macos)
+#   %APPDATA%\Rime       (windows)
+
+# patch:
+#   key_binder:
+#     bindings:
+#       - {accept: Return, send: Escape, when: composing}
+#       - {accept: semicolon, send: 2, when: has_menu}
+#       - {accept: apostrophe, send: 3, when: has_menu}
+#     import_preset: default
+
+#   'punctuator/import_preset': symbols
+#   'recognizer/patterns/punct': "^/([a-z]+|[0-9])$"
+
+#   show_notifications_via_notification_center: false
+#   us_keyboard_layout: true

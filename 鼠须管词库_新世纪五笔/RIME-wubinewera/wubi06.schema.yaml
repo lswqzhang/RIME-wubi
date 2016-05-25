@@ -1,0 +1,102 @@
+customization: 173635732
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - table_translator
+    - punct_translator
+    - reverse_lookup_translator
+
+key_binder:
+  bindings:
+    - {accept: Return, send: Escape, when: composing}
+    - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: apostrophe, send: 3, when: has_menu}
+  import_preset: default
+
+preset_color_schemes:
+  apathy:
+    author: "LIANG Hai"
+    back_color: 0xFFFFFF
+    border_height: 0
+    border_width: 0
+    candidate_format: "%c %@ "
+    comment_text_color: 0x999999
+    corner_radius: 5
+    font_face: "PingFangSC-Regular,H-SiuNiu,HanaMinA"
+    font_point: 16
+    hilited_candidate_back_color: 0xFFF0E4
+    hilited_candidate_text_color: 0xEE6E00
+    horizontal: true
+    inline_preedit: true
+    label_font_face: "PingFangSC-Light"
+    label_font_point: 11
+    name: "冷漠 / Apathy"
+    text_color: 0x424242
+punctuator:
+  import_preset: symbols
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([a-z]+|[0-9])$"
+    reverse_lookup: "^z[a-z]*$"
+reverse_lookup:
+  dictionary: pinyin_simp
+  preedit_format:
+    - "xform/([nl])v/$1ü/"
+    - "xform/([jqxy])v/$1u/"
+  prefix: z
+  tips: "[拼音]"
+schema:
+  author:
+    - "發明人 王永民先生"
+  description: |
+    五筆字型新世纪五笔
+    碼表源自 qq
+    敲 z 鍵進入拼音反查
+    
+  name: "新世纪五笔"
+  schema_id: wubi06
+  version: 0.1.custom.173635732
+
+
+show_notifications_via_notification_center: false
+speller:
+  delimiter: " ;'"
+  max_code_length: 4
+style:
+  color_scheme: apathy
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["中文", "英文"]
+  - name: full_shape
+    states: ["半角", "全角"]
+  - name: extended_charset
+    states: ["通用", "增廣"]
+translator:
+  dictionary: wubi06
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+    - "^[a-y]{1,3}$"
+  enable_charset_filter: true
+  enable_completion: true
+  enable_encoder: true
+  enable_sentence: false
+  enable_user_dict: true
+  encode_commit_history: true
+  max_phrase_length: 4
+us_keyboard_layout: true
