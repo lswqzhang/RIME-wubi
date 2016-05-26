@@ -16,7 +16,7 @@ if sys.version_info.major == 2:
 class Wubi06Dict(object):
     WORD_CODES_DICT = defaultdict(list)
     # 下载自网上的字词频率
-    WORD_WEIGHT = defaultdict(lambda: 1)
+    WORD_WEIGHT = defaultdict(lambda: 0)
     # 一级简码II
     WORDS_SET = {'戈', '子', '又', '大', '月', '土', '王', '目', '水', '日',
                  '口', '田', '山', '已', '火', '之', '金', '白', '木', '禾',
@@ -50,7 +50,8 @@ class Wubi06Dict(object):
         f.close()
 
         for word in self.WORD_CODES_DICT:
-            self.WORD_CODES_DICT[word].sort(key=lambda x: len(x), reverse=True)
+            self.WORD_CODES_DICT[word].sort(
+                key=lambda x: len(x), reverse=True)
 
     def get_full_code(self, word):
         return self.WORD_CODES_DICT[word][0]
@@ -129,17 +130,21 @@ class Wubi06Dict(object):
                     if len(word) == 1:
                         full_code = self.get_full_code(word)
 
-                        # 一个汉字有简码的简码在前，但这个汉字的全码权重设置为0
+                        # 一个汉字有简码的简码在前，但这个汉字的全码权重设置低一些
                         # 比如 “去” fc 但打 fcu 的时候第一个不显示“去”
                         if (code == full_code and
                                 len(self.WORD_CODES_DICT[word]) >= 2):
                             weight = 0
 
+                            # 如果是常见的 7000 个字，全码也在繁体字前
+                            if word in self.WORD_WEIGHT:
+                                weight = 1
+
                     if len(code) == 1:
                         if word in self.WORDS_SET:
                             weight = 0
-                        elif weight == 0:  # 一级简码如果词频中没有设置为100
-                            weight == 100
+                        elif weight == 0:  # 一级简码如果词频中没有设置为6000
+                            weight == 6000
 
                         stem = self.get_full_code(word)[:2]
                         print('word:', word, 'stem:', stem)
