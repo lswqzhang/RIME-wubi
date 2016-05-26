@@ -9,7 +9,7 @@ from collections import defaultdict
 import os
 
 
-class Wubi06Dict(object):
+class Wubi98Dict(object):
     WORD_CODES_DICT = defaultdict(list)
     # 下载自网上的字词频率
     WORD_WEIGHT = defaultdict(lambda: 0)
@@ -163,14 +163,14 @@ class Wubi06Dict(object):
 
 
 def main():
-    wubi = Wubi06Dict()
+    wubi = Wubi98Dict()
     wubi.get_frequent_words()
-    wubi.generate_single_word_dict('./wubi06_word_code.txt')
+    wubi.generate_single_word_dict('./wubi98_word_code.txt')
     wubi.generate_words_code('./my_words')
-    wubi.write_into_squirrel('./RIME/wubi06.dict.yaml')
+    wubi.write_into_squirrel('./RIME/wubi98.dict.yaml')
 
-    if os.path.exists('/Users/tu/Library/Rime/'):
-        os.system('cp ./RIME/wubi06.dict.yaml /Users/tu/Library/Rime/')
+    # if os.path.exists('/Users/tu/Library/Rime/'):
+    #     os.system('cp ./RIME/wubi98.dict.yaml /Users/tu/Library/Rime/')
 
 
 if __name__ == '__main__':
