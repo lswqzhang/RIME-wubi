@@ -27,7 +27,7 @@ class Wubi98Dict(object):
                     print(line)
 
                 if word not in self.WORD_WEIGHT:
-                    self.WORD_WEIGHT[word] = weight
+                    self.WORD_WEIGHT[word] = 7000 - int(weight)
 
     def generate_single_word_dict(self, fpath):
         f = open(fpath)
@@ -60,7 +60,7 @@ class Wubi98Dict(object):
         if not os.path.exists(fdir_ok):
             os.mkdir(fdir_ok)
 
-        MY_WORDS_CODE_DICT = {}
+        CUSTOM_WORDS_CODE_DICT = {}
 
         fs = os.listdir(fdir)
         for fpath in fs:
@@ -99,7 +99,7 @@ class Wubi98Dict(object):
                 line_ok = '{}\t{}\n'.format(line, code_string)
 
                 # add new word to dict
-                MY_WORDS_CODE_DICT[line] = code_string
+                CUSTOM_WORDS_CODE_DICT[line] = code_string
 
                 f2.write(line_ok)
 
@@ -111,7 +111,7 @@ class Wubi98Dict(object):
             for code in codes:
                 code_words_dict[code].add(word)
 
-        for word, code in MY_WORDS_CODE_DICT.items():
+        for word, code in CUSTOM_WORDS_CODE_DICT.items():
             code_words_dict[code].add(word)
 
         with open('./full_result.txt', 'w') as f:
@@ -124,11 +124,11 @@ class Wubi98Dict(object):
                         weight = 10
 
                     if len(word) == 1:
-                        full_code = self.get_full_code(word)
+                        most_simple_code = self.WORD_CODES_DICT[word][-1]
 
                         # 一个汉字有简码的简码在前，但这个汉字的全码权重设置低一些
                         # 比如 “去” fc 但打 fcu 的时候第一个不显示“去”
-                        if (code == full_code and
+                        if (code != most_simple_code and
                                 len(self.WORD_CODES_DICT[word]) >= 2):
                             weight = 0
 

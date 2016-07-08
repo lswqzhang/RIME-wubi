@@ -3,7 +3,7 @@
 
 ## 使用说明
 ### 1. 直接使用
-Mac OSX将 RIME-wubinewera 或 RIME-wubi98中文件复制到 输入法 **用户设定**文件夹。
+Mac OSX将 RIME 文件夹中的文件复制到 RIME输入法 **用户设定**文件夹。
 
 其它平台可以参考着修改，使用提供的词库。
 
@@ -13,21 +13,29 @@ Mac OSX将 RIME-wubinewera 或 RIME-wubi98中文件复制到 输入法 **用户�
 修改或添加 my_words 文件夹下的 txt 文件，可以是任意多个，只有词组，会自动生成对应的编码
 
 ```shell
-./wubi98dict.py
+./generate_wubi06_dict.py
 ```
 
 运行后会生成一个 full_result.txt
 ```
-戈   a   25
-工   a   31868
-式   aa  31843
-工   aaa 31230
-㠭   aaaa    20795
-工   aaaa    26649
-㐂   aaab    20794
-葡萄牙 aaah    0
+工   a   202 aa
+戈   a   0   ag
+式   aa  410
+工   aaa 202
+工   aaaa    1
+㠭   aaaa    0
+㐂   aaab    0
+葡萄牙 aaah    10
+花花世界    aaal    10
+工艺  aaan    10
 ...
 ```
-将这些内容复制到 wubi98.dict.yaml 文件中。
+**注意：新世纪五笔修改了两个简码**
 
-新世纪版也是类似的方法。
+式：aa 原来是工（a, aa, aaa, aaaa）觉得不合理，改成了“式”
+
+其它的所有的都与官方的最新码表一致，如果不喜欢，可以把上面两个改回去，在 wubi06_word_code.txt 中
+
+将这些内容复制到 wubi06.dict.yaml 文件中。
+
+98版五笔也是类似的方法，98版五笔没有作任何更改。

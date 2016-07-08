@@ -25313,7 +25313,6 @@
 䍹   ugty
 義   ugty
 善   ugu
-羡   ugu
 鄯   ugub
 㪨   uguc
 瘗   uguf
@@ -27950,7 +27949,7 @@
 係   wtxi
 侮   wtxy
 八   wty
-们   wu
+位   wu
 併   wuah
 倦   wud
 倦   wudb
